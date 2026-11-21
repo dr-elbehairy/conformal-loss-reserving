@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+*.npy
+.DS_Store
+analysis/data/
+analysis/data2007/
